@@ -1,3 +1,9 @@
 first file
 
+file changed on feature 1
+
+description added on feature/1
+
+code added on feature/1
+
 name added in feature/2
